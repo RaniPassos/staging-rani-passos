@@ -3,7 +3,7 @@ import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 import { Divider } from '@mui/material';
-import logo from 'public/assets/images/logo.svg';
+import logo from 'https://www.aluno.ranipassos.com.br/static/media/logo.608a66b468fbd392cb50bc3a11eb1a34.svg';
 
 export const Footer = () => {
   return (

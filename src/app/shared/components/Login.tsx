@@ -20,7 +20,7 @@ import Container from '@mui/material/Container';
 import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 
-import logo from 'public/assets/images/logo.svg';
+import logo from 'https://www.aluno.ranipassos.com.br/static/media/logo.608a66b468fbd392cb50bc3a11eb1a34.svg';
 
 export const Login: React.FC = () => {
   const { isAuth } = useAuthContext();

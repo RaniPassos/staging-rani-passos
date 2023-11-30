@@ -28,7 +28,7 @@ import { NotificationsService } from '../services/notifications/NotificationsSer
 import CloseIcon from '@mui/icons-material/Close';
 import NotificationsOffIcon from '@mui/icons-material/NotificationsOff';
 
-import logo from 'public/assets/images/logo.svg';
+import logo from 'https://www.aluno.ranipassos.com.br/static/media/logo.608a66b468fbd392cb50bc3a11eb1a34.svg';
 
 type TUser = {
   id: number;
